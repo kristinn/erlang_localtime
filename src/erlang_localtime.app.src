@@ -6,7 +6,7 @@
   {modules, []},
   {registered, []},
   {env, []},
-  {contributors, ["Jesse Gumm"]},
+  {contributors, ["Dmitry Melnikov", "Jesse Gumm"]},
   {licenses, ["BSD"]},
   {links, [{"Github", "https://github.com/choptastic/erlang_localtime"}]}
  ]}.
