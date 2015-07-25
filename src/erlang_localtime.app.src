@@ -1,9 +1,12 @@
 {application, 'erlang_localtime',
  [
-  {description, ""},
+  {description, "Erlang library for conversion from one local time to another"},
   {vsn, "1.0"},
   {applications, [kernel, stdlib]},
   {modules, []},
   {registered, []},
-  {env, []}
+  {env, []},
+  {contributors, ["Jesse Gumm"]},
+  {licenses, ["BSD"]},
+  {links, [{"Github", "https://github.com/choptastic/erlang_localtime"}]}
  ]}.
